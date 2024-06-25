@@ -1,2 +1,2 @@
 # exercicio_html_js
- Projeto02 EBAC
+ Exercício02 EBAC
